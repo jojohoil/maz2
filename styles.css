@@ -28,8 +28,7 @@ body {
     font-size: 3em;
     color: rgb(255, 255, 255);
     text-shadow: 2px 2px 4px #000000;
-    bottom: 25%;
-    left: 89%;
+    align text: center;
     transform: translate(-100%, -100%);
 }
 
