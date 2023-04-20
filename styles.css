@@ -28,8 +28,8 @@ body {
     font-size: 3em;
     color: white;
     text-shadow: 2px 2px 4px #000000;
-    bottom: 20%;
-    left: 50%;
+    bottom: 25%;
+    left: 70%;
     transform: translate(-50%, -50%);
 }
 
